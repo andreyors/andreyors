@@ -6,7 +6,7 @@
 
 ### 😊 Hej! Welcome to my Github profile!
 
-I'm Andrey, a passionate software engineer and DevOps from Berlin, Germany 🇩🇪. I love TDD, learning new places around 
+I'm Andrey, a passionate software engineer and DevOps from Berlin, Germany 🇩🇪. I love TDD and learning new places around the globe.
 
 Thanks for visiting and let's [connect](https://www.linkedin.com/in/andreyorsoev/)!
 
