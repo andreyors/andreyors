@@ -6,7 +6,7 @@
 
 ### 😊 Hej! Welcome to my Github profile!
 
-I'm Andrey, a passionate software engineer and DevOps from Berlin, Germany 🇩🇪. I love TDD and learning new places around the globe.
+I'm Andrey, a passionate software engineer (with 18+ years of experience) and DevOps from Berlin, Germany 🇩🇪. I love TDD and learning new places around the globe.
 
 Ask me anything about:
 
