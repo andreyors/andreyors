@@ -21,7 +21,7 @@ I'm Andrey, a passionate software engineer (with 18+ years of experience) and De
 - [x] Python & Django + DRF
 - [x] Ruby & Ruby on Rails
 - [x] Kotlin & Ktor
-- [x] Docker + Docker-compose, planing transition to Podman
+- [x] Docker + Docker-compose and planning your transition to Podman
 - [x] CI/CD best practices
 
 > 🤯 Fun fact: I've been in Sahara (North Africa, Tunisia & Morocco), Arabian Desert (UAE), Gobi Desert (Mongolia), Great Basin Desert (US), Mojave Desert (US) and Negev (Israel)
