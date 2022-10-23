@@ -26,6 +26,4 @@ I'm Andrey, a passionate software engineer (with 18+ years of experience) and De
 
 > 🤯 Fun fact: I've been in Sahara (North Africa, Tunisia & Morocco), Arabian Desert (UAE), Gobi Desert (Mongolia), Great Basin Desert (US), Mojave Desert (US) and Negev (Israel)
 
-Thanks for visiting and let's [connect](https://www.linkedin.com/in/andreyorsoev/)!
-
-
+🪩 Thanks for visiting and let's [connect](https://www.linkedin.com/in/andreyorsoev/)!
