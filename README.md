@@ -24,7 +24,7 @@ Tech stack
 - [x] Docker + Docker-compose, planing transition to Podman
 - [x] CI/CD best practices
 
-> Fun fact: I've been in Sahara (North Africa), Arabian Desert (UAE), Gobi Desert (Mongolia), Great Basin Desert (US), Mojave Desert (US) and Negev (Israel)
+> Fun fact: I've been in Sahara (North Africa, Tunisia & Morocco), Arabian Desert (UAE), Gobi Desert (Mongolia), Great Basin Desert (US), Mojave Desert (US) and Negev (Israel)
 
 Thanks for visiting and let's [connect](https://www.linkedin.com/in/andreyorsoev/)!
 
