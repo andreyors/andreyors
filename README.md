@@ -2,10 +2,9 @@
 
 ### 😊 Hej! Welcome to my Github profile!
 
-I'm Andrey, passionate software engineer and DevOps from 🇩🇪 Berlin, Germany.
+I'm Andrey, a passionate software engineer and DevOps from 🇩🇪 Berlin, Germany. 
 
-Fun fact:
-- 
+Thanks for visiting and let's [connect](https://www.linkedin.com/in/andreyorsoev/)!
 
 # Things I work with
 
