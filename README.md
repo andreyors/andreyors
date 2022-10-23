@@ -1,10 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-andreyorsoev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreyorsoev/)](https://www.linkedin.com/in/andreyorsoev/)
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=andreyors"
-    alt="andreyors"
-  />
-</p>
+<img
+  src="https://komarev.com/ghpvc/?username=andreyors"
+  alt="andreyors"
+/>
 
 ### 😊 Hej! Welcome to my Github profile!
 
