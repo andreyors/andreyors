@@ -28,4 +28,4 @@ I'm Andrey, a passionate software engineer (with 18+ years of experience) and De
 
 🪩 Thanks for visiting and let's [connect](https://www.linkedin.com/in/andreyorsoev/)!
 
-[![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyors&theme=dracula&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyors&theme=dracula&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
