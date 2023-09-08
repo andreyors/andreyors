@@ -29,3 +29,5 @@ I'm Andrey, a passionate software engineer (with 18+ years of experience) and De
 🪩 Thanks for visiting and let's [connect](https://www.linkedin.com/in/andreyorsoev/)!
 
 [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyors&theme=dracula&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/andreyors"><img src="https://api.daily.dev/devcards/222da46af09a45e5b2a0aefa0c33c7fd.png?r=0g4" width="400" alt="Andrey O's Dev Card"/></a>
